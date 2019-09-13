@@ -1,6 +1,6 @@
 {
-  "name": "pwa-app",
-  "short_name": "pwa-app",
+  "name": "service-worker-demo",
+  "short_name": "service-worker-demo",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
