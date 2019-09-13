@@ -1,10 +1,10 @@
 {
-  "name": "pwa-example",
-  "short_name": "pwa-example",
+  "name": "angular-pwa-demo",
+  "short_name": "angular-pwa-demo",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://tejindermakkar786.github.io/angular-pwa/",
   "start_url": "https://tejindermakkar786.github.io/angular-pwa/",
   "icons": [
     {
