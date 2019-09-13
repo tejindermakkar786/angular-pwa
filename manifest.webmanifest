@@ -1,6 +1,6 @@
 {
-  "name": "service-worker-demo",
-  "short_name": "service-worker-demo",
+  "name": "pwa-example",
+  "short_name": "pwa-example",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
