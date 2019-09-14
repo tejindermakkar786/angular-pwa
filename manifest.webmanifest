@@ -4,7 +4,7 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "https://tejindermakkar786.github.io/angular-pwa/",
+  "scope": "/",
   "start_url": "https://tejindermakkar786.github.io/angular-pwa/",
   "icons": [
     {
