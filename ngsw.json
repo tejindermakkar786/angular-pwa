@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568444058954,
+  "timestamp": 1568445572987,
   "index": "https://tejindermakkar786.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://tejindermakkar786.github.io/angular-pwa/favicon.ico",
         "https://tejindermakkar786.github.io/angular-pwa/index.html",
-        "https://tejindermakkar786.github.io/angular-pwa/main-es2015.eecb79eb8830539046c2.js",
-        "https://tejindermakkar786.github.io/angular-pwa/main-es5.9594afd238c0cd2126f2.js",
+        "https://tejindermakkar786.github.io/angular-pwa/main-es2015.8dc58f73b76c72c46bf2.js",
+        "https://tejindermakkar786.github.io/angular-pwa/main-es5.8abda753a83882ff0fce.js",
         "https://tejindermakkar786.github.io/angular-pwa/manifest.webmanifest",
         "https://tejindermakkar786.github.io/angular-pwa/polyfills-es2015.1c1c6e14f86c4c3438f0.js",
         "https://tejindermakkar786.github.io/angular-pwa/polyfills-es5.2b7c6b11d4d572f932e2.js",
@@ -49,9 +49,9 @@
     "https://tejindermakkar786.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://tejindermakkar786.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://tejindermakkar786.github.io/angular-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://tejindermakkar786.github.io/angular-pwa/index.html": "e0e62cf293e7a06993f149adb59352d46359a9ef",
-    "https://tejindermakkar786.github.io/angular-pwa/main-es2015.eecb79eb8830539046c2.js": "6cc4974a483f3a692bf97264c5d7fbe4cb61f00b",
-    "https://tejindermakkar786.github.io/angular-pwa/main-es5.9594afd238c0cd2126f2.js": "39f68f42ce0a551dba64dd8e0a66e1bc23d902c7",
+    "https://tejindermakkar786.github.io/angular-pwa/index.html": "15d17bedb546ee6ea6b72e827e8e5961c9a67517",
+    "https://tejindermakkar786.github.io/angular-pwa/main-es2015.8dc58f73b76c72c46bf2.js": "25a3968484c4258de4466cc37556203972617a16",
+    "https://tejindermakkar786.github.io/angular-pwa/main-es5.8abda753a83882ff0fce.js": "2d98aa49035207f8a2543a6fbdba1abef9eb2624",
     "https://tejindermakkar786.github.io/angular-pwa/manifest.webmanifest": "5a3cedd45e75809ff6013202187297cdcabf276d",
     "https://tejindermakkar786.github.io/angular-pwa/polyfills-es2015.1c1c6e14f86c4c3438f0.js": "08c97940ba93ccc4121b85df6911d86011ef3fb8",
     "https://tejindermakkar786.github.io/angular-pwa/polyfills-es5.2b7c6b11d4d572f932e2.js": "9d9b583788005b7e2dc51d2b965f7c09b9180c60",
