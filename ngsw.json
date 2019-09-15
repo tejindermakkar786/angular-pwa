@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568535887074,
+  "timestamp": 1568540828839,
   "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -12,6 +12,7 @@
         "/angular-pwa/index.html",
         "/angular-pwa/main-es2015.8dc58f73b76c72c46bf2.js",
         "/angular-pwa/main-es5.8abda753a83882ff0fce.js",
+        "/angular-pwa/manifest.webmanifest",
         "/angular-pwa/polyfills-es2015.1c1c6e14f86c4c3438f0.js",
         "/angular-pwa/polyfills-es5.2b7c6b11d4d572f932e2.js",
         "/angular-pwa/runtime-es2015.ead83b817a6b516c7860.js",
@@ -37,7 +38,18 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api-users",
+      "patterns": [
+        "https:\\/\\/jsonplaceholder\\.typicode\\.com\\/users"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -51,6 +63,7 @@
     "/angular-pwa/index.html": "63dc84c1bd4e0edbd8d07f23a3a8412dc8268252",
     "/angular-pwa/main-es2015.8dc58f73b76c72c46bf2.js": "25a3968484c4258de4466cc37556203972617a16",
     "/angular-pwa/main-es5.8abda753a83882ff0fce.js": "2d98aa49035207f8a2543a6fbdba1abef9eb2624",
+    "/angular-pwa/manifest.webmanifest": "5a3cedd45e75809ff6013202187297cdcabf276d",
     "/angular-pwa/polyfills-es2015.1c1c6e14f86c4c3438f0.js": "08c97940ba93ccc4121b85df6911d86011ef3fb8",
     "/angular-pwa/polyfills-es5.2b7c6b11d4d572f932e2.js": "9d9b583788005b7e2dc51d2b965f7c09b9180c60",
     "/angular-pwa/runtime-es2015.ead83b817a6b516c7860.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
