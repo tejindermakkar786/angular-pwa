@@ -1,11 +1,11 @@
 {
-  "name": "angular-pwa-demo",
-  "short_name": "angular-pwa-demo",
+  "name": "mark-prev",
+  "short_name": "mark-prev",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/angular-pwa/",
+  "start_url": "/markdown-previewer/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
