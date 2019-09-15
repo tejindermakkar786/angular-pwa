@@ -1,6 +1,6 @@
 {
-  "name": "mark-prev",
-  "short_name": "mark-prev",
+  "name": "angular-pwa-demo",
+  "short_name": "angular-pwa-demo",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
